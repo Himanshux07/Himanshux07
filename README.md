@@ -24,6 +24,10 @@ I'm a passionate software developer focused on building scalable web application
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Himanshu_K24?ext=heatmap)
 -->
 
-**LeetCode:** [Himanshu_K24](https://leetcode.com/u/Himanshu_K24/)  
-- 🧩 Problems Solved: Auto-tracked  
-- 🏆 Contest Rating: Auto-updated  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&font=Karma)
+
+![Leetcode Contest](https://leetcode-stats-six.vercel.app/api?username=Himanshu_K24)
+
+![Problems Solved](https://img.shields.io/badge/Problems-Solved-brightgreen?style=for-the-badge&logo=leetcode)
+![Contest Rating](https://img.shields.io/badge/Contest-Rating-orange?style=for-the-badge&logo=leetcode)
+

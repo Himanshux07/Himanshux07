@@ -22,4 +22,8 @@ I'm a passionate software developer focused on building scalable web application
 🔥 Always curious to learn new technologies
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Himanshu_K24?ext=heatmap)
+-->
 
+**LeetCode:** [Himanshu_K24](https://leetcode.com/u/Himanshu_K24/)  
+- 🧩 Problems Solved: Auto-tracked  
+- 🏆 Contest Rating: Auto-updated  

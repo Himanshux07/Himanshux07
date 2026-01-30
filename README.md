@@ -23,16 +23,14 @@ I'm a passionate software developer focused on building scalable web application
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Himanshu_K24?ext=heatmap)
 -->
-## 🧠 LeetCode Dashboard  
+## 🧠 LeetCode Stats  
 
-### 📊 Profile Stats  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&font=Karma&border=0)
+### 📊 Profile Card  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&font=Karma)
 
 ### 🏆 Contest Rating  
-![LeetCode Contest](https://leetcode-stats-six.vercel.app/api?username=Himanshu_K24)
+![LeetCode Contest](https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&show=contest)
 
 ### 🔥 Daily Activity Heatmap  
-![LeetCode Heatmap](https://leetcode-heatmap.vercel.app/api?username=Himanshu_K24&theme=dark)
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap)
 
-### 🏅 Badges  
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24)

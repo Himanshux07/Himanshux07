@@ -31,7 +31,8 @@ I'm a passionate software developer focused on building scalable web application
 
 ### 🏆 Contest Rating  
 ![LeetCode Contest](https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&show=contest)
-
+<!--
 ### 🔥 Daily Activity Heatmap  
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap)
+-->
 

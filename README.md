@@ -18,7 +18,7 @@ I'm a passionate software developer focused on building scalable web application
 
 🛠️ Organizer at Technical Aakriti & Community Tech Events
 
-🔥 Always curious to learn new technologies
+
 ![LeetCode Heatmap](https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap)
 
 <!--

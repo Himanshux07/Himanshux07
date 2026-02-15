@@ -12,9 +12,7 @@ I'm a passionate software developer focused on building scalable web application
 
 🧠 Strong interest in DSA using Java
 
-🌐 Full Stack Web Developer
-
-🎯 Actively improving system design & backend architecture
+🎯 Enhancing my Problem solving Skills in Data Structure 
 
 🛠️ Organizer at Technical Aakriti & Community Tech Events
 

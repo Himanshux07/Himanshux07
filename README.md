@@ -68,22 +68,21 @@ I'm a passionate software developer focused on building scalable web application
 
 ---
 
-## 📊 LeetCode Progress  
+## 🏆 LeetCode Achievements  
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap" alt="LeetCode Stats"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/>
 
 </div>
 
----
+<br>
 
-## 📈 GitHub Stats  
+## 📊 LeetCode Heatmap  
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="170"/>
+<img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap" alt="LeetCode Heatmap"/>
 
 </div>
 
@@ -98,7 +97,7 @@ I'm a passionate software developer focused on building scalable web application
 
 ---
 
-<h3 align="center">⚡ "Code. Debug. Improve. Repeat." ⚡</h3>
+<h3 align="center">⚡ Code. Debug. Improve. Repeat. ⚡</h3>
 
 
 

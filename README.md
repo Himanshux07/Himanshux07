@@ -1,44 +1,7 @@
-<!--
-👋 Hi, I'm Himanshu Kumar
-
-🎓 B.Tech Student | Web Developer | Java & DSA Enthusiast 
-
-I'm a passionate software developer focused on building scalable web applications and strengthening my problem-solving skills using Java & DSA. I love exploring modern web technologies and contributing to meaningful projects.
-
-🚀 About Me
-
-🎓 Second-year B.Tech student
-
-💻 Backend Developer (MERN Stack)
-
-🧠 Strong interest in DSA using Java
-
-🎯 Enhancing my Problem solving Skills in Data Structure 
-
-🛠️ Organizer at Technical Aakriti & Community Tech Events
-
-<div style="align-item :center ">
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap)
-</div>
-
-<!--
-## 🧠 LeetCode Stats  
-
-### 📊 Profile Card  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&font=Karma)
-
-
-
-### 🏆 Contest Rating  
-![LeetCode Contest](https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&show=contest)
-<!--
-### 🔥 Daily Activity Heatmap  
-
--->
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 
 <h3 align="center">
-🎓 B.Tech Student | 💻 Backend Developer | ☕ Java & DSA Enthusiast
+🎓 B.Tech Student | ☕ Java & DSA Enthusiast | 💻 Backend Developer
 </h3>
 
 ---
@@ -58,29 +21,33 @@ I'm a passionate software developer focused on building scalable web application
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
 
 ### 🌐 Web Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🏆 LeetCode Achievements  
+## 🏆 LeetCode Profile  
 
 <div align="center">
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true" alt="LeetCode Badges"/>
 
-</div>
+<br><br>
 
-<br>
+<img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=contest" alt="LeetCode Contest Rating"/>
 
-## 📊 LeetCode Heatmap  
-
-<div align="center">
+<br><br>
 
 <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap" alt="LeetCode Heatmap"/>
 
@@ -98,7 +65,3 @@ I'm a passionate software developer focused on building scalable web application
 ---
 
 <h3 align="center">⚡ Code. Debug. Improve. Repeat. ⚡</h3>
-
-
-
-

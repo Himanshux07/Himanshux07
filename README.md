@@ -21,33 +21,35 @@
 ## 📫 Connect With Me  
 
 <p align="left">
-<a href="mailto:himanshu241937@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
-</a>&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/himanshu-kumar-70555a321/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/_hermit07_/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Himanshu_K24/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/himanshuX07" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://codeforces.com/profile/HimanshuX07" target="_blank">
-  <img src="https://sta.codeforces.com/s/0/favicon-32x32.png" width="40"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.geeksforgeeks.org/profile/himanshu074/" target="_blank">
-  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40"/>
+<a href="mailto:himanshu241937@gmail.com" target="_blank" style="text-decoration:none; display:inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" style="vertical-align:middle;"/>
 </a>
+
+<a href="https://www.linkedin.com/in/himanshu-kumar-70555a321/" target="_blank" style="text-decoration:none; display:inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="vertical-align:middle;"/>
+</a>
+
+<a href="https://www.instagram.com/_hermit07_/" target="_blank" style="text-decoration:none; display:inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" style="vertical-align:middle;"/>
+</a>
+
+<a href="https://leetcode.com/u/Himanshu_K24/" target="_blank" style="text-decoration:none; display:inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" style="vertical-align:middle;"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/himanshuX07" target="_blank" style="text-decoration:none; display:inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" style="vertical-align:middle;"/>
+</a>
+
+<a href="https://codeforces.com/profile/HimanshuX07" target="_blank" style="text-decoration:none; display:inline-block;">
+  <img src="https://sta.codeforces.com/s/0/favicon-32x32.png" width="40" style="vertical-align:middle;"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/himanshu074/" target="_blank" style="text-decoration:none; display:inline-block;">
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40" style="vertical-align:middle;"/>
+</a>
+
 </p>
 
 ---

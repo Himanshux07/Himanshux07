@@ -19,34 +19,48 @@
 ---
 ## 📫 Connect With Me  
 
-<p align="center">
+## 📫 Connect With Me  
+
+<p align="left">
 
 <a href="mailto:himanshu241937@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" style="background-color:#EA4335; padding:10px; border-radius:50%;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/himanshu-kumar-70555a321/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" style="background-color:#0A66C2; padding:10px; border-radius:50%;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_hermit_07/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" style="background-color:#E4405F; padding:10px; border-radius:50%;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Himanshu_K24/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40" style="background-color:#FFA116; padding:10px; border-radius:50%;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/profile/himanshuX07" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" style="background-color:#2EC866; padding:10px; border-radius:50%;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" />
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://codeforces.com/profile/HimanshuX07" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" height="40" style="background-color:#1F8ACB; padding:10px; border-radius:50%;"/>
+  <img src="https://sta.codeforces.com/s/0/favicon-32x32.png" width="40" />
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.geeksforgeeks.org/profile/himanshu074/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="40" height="40" style="background-color:#0F9D58; padding:10px; border-radius:50%;"/>
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40" />
 </a>
 
 </p>

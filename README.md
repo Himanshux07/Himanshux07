@@ -10,10 +10,11 @@
 
 - 🎓 Second-Year B.Tech Student  
 - 💻 Backend Developer (MERN Stack)  
-- 🧠 Passionate about Data Structures & Algorithms (Java)  
-- 🎯 Focused on Improving Problem-Solving Skills  
-- 🛠️ Joint Secretary, Technical Board | Organizer – Technical Aakriti & Community Technology Events  
-- 🌱 Currently learning Advanced Backend & System Design  
+- 🧠 Passionate about Data Structures & Algorithms (Java)
+- 📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests 
+- 🎯 Focused on Improving Problem-Solving Skills   
+- 🌱 Currently learning Advanced Backend
+- 🛠️ Joint Secretary, Technical Board | Organizer – Technical Aakriti & Community Technology Events 
 
 ---
 
@@ -25,9 +26,6 @@
 
 <br><br>
 
-<p align="center">
-📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests
-</p>
 
 <br><br>
 <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=contest"/>

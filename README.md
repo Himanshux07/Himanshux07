@@ -10,61 +10,73 @@
 
 - 🎓 Second-Year B.Tech Student  
 - 💻 Backend Developer (MERN Stack)  
-- 🧠 Passionate about Data Structures & Algorithms (Java)  
-- 📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests  
-- 🎯 Focused on Improving Problem-Solving Skills  
-- 🌱 Currently learning Advanced Backend  
-- 🛠️ Joint Secretary, Technical Board | Organizer – Technical Aakriti & Community Technology Events  
+- 🧠 Passionate about Data Structures & Algorithms (Java)
+- 📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests 
+- 🎯 Focused on Improving Problem-Solving Skills   
+- 🌱 Currently learning Advanced Backend
+- 🛠️ Joint Secretary, Technical Board | Organizer – Technical Aakriti & Community Technology Events 
 
 ---
-
 ## 📫 Connect With Me  
 
 <p align="center">
 
 <a href="mailto:himanshu241937@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/himanshu-kumar-70555a321/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.instagram.com/_hermit_07/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://leetcode.com/u/Himanshu_K24/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.hackerrank.com/profile/himanshuX07" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://codeforces.com/profile/HimanshuX07" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" height="40"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.geeksforgeeks.org/profile/himanshu074/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="40" height="40"/>
 </a>
 
 </p>
-
 ---
 
-## 🏆 LeetCode  
+## 🏆 LeetCode Profile  
 
-<p align="center">
-  <a href="https://leetcode.com/u/Himanshu_K24/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&font=baloo&ext=contest" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-🔥 Consistent Problem Solver | Active in Weekly & Biweekly Contests
-</p>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true"/>
+
+<br><br>
+
+
+<br><br>
+<img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=contest"/>
+
+</div>
 
 ---
 

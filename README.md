@@ -9,28 +9,29 @@
 ## 🚀 About Me  
 
 - 🎓 Second-Year B.Tech Student  
-- 💻 Backend Developer (MERN Stack + Java Backend)  
+- 💻 Backend Developer (MERN Stack)  
 - 🧠 Passionate about Data Structures & Algorithms (Java)  
 - 🎯 Focused on Improving Problem-Solving Skills  
-- 🛠️ Joint Secretary, Technical Board  
-- 🎪 Organizer – Technical Aakriti & Community Technology Events  
+- 🛠️ Joint Secretary, Technical Board | Organizer – Technical Aakriti & Community Technology Events  
 - 🌱 Currently learning Advanced Backend & System Design  
 
 ---
 
-## 🏆 LeetCode  
+## 🏆 LeetCode Profile  
 
-<p align="center">
-  <a href="https://leetcode.com/u/Himanshu_K24/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&font=baloo&ext=contest" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/u/Himanshu_K24/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-</p>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true"/>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=contest"/>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap"/>
+
+</div>
 
 <p align="center">
 📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests
@@ -72,25 +73,13 @@
 
 ## 🎯 Current Goals  
 
-- 🚀 Master Backend Development (Java + Node.js)  
+- 🚀 Master Backend Development  
 - 🧠 Crack Advanced DSA Questions  
 - 🏗️ Build Scalable Full-Stack Projects  
 - 💼 Prepare for Product-Based Companies  
 
 ---
 
-## 📫 Connect With Me  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-</a>
-</p>
-
----
-
 <h3 align="center">⚡ Code. Debug. Improve. Repeat. ⚡</h3>
+
+in this is there any better way to represent the leetcode badge

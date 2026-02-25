@@ -23,15 +23,15 @@
 
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true"/>
 
-<br>
+<br><br>
 
 <p align="center">
 📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests
 </p>
 
-<br>
+<br><br>
 <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=contest"/>
-<br>
+<br><br>
 <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap"/>
 
 </div>

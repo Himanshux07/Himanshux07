@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/_hermit_07/" target="_blank">
+<a href="https://www.instagram.com/_hermit07_/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
 </a>&nbsp;&nbsp;
 

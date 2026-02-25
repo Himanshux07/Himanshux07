@@ -25,6 +25,11 @@
 
 <br><br>
 
+<p align="center">
+📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests
+</p>
+
+
 <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=contest"/>
 
 <br><br>
@@ -32,10 +37,6 @@
 <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap"/>
 
 </div>
-
-<p align="center">
-📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests
-</p>
 
 ---
 

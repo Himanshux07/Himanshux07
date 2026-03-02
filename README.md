@@ -9,7 +9,7 @@
 ## 🚀 About Me  
 
 - 🎓 Second-Year B.Tech Student  
-- 💻 Backend Developer (MERN Stack)  
+- 💻 Backend Developer
 - 🧠 Passionate about Data Structures & Algorithms (Java)  
 - 📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests  
 - 🎯 Focused on Improving Problem-Solving Skills  

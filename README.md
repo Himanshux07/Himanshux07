@@ -103,7 +103,7 @@
 - 🚀 Master Backend Development  
 - 🧠 Crack Advanced DSA Questions  
 - 🏗️ Build Scalable Full-Stack Projects  
-- 💼 Prepare for Product-Based Companies  
+<!--- 💼 Prepare for Product-Based Companies  -->
 
 ---
 

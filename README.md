@@ -62,10 +62,6 @@
   <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap"/>
 </p>
 
-<p align="center">
-  📈 Consistent daily problem solving
-</p>
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -88,10 +84,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/>
-</p>
-
-<p>
-<b>Concepts:</b> REST APIs • WebSockets • Authentication (JWT)
 </p>
 
 ---

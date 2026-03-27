@@ -79,17 +79,21 @@
 
 ---
 
-### 🌐 Web Development
+### 🌐 Web Development & Backend
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
-</p>
 
-**Core Skills:**  
-🚀 REST APIs • 🔌 WebSockets • 🧪 API Testing • 🔐 JWT Auth  
+<!-- REST API -->
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" width="50"/>
+
+<!-- WebSocket -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="50"/>
+
+</p>
 
 ---
 

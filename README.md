@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 
 <h3 align="center">
-🎓 B.Tech Student | ☕ Java & DSA Enthusiast | 💻 Backend Developer
+💻 Backend Developer
 </h3>
 
 ---
@@ -9,12 +9,11 @@
 ## 🚀 About Me  
 
 - 🎓 Second-Year B.Tech Student  
-- 💻 Backend Developer
-- 🧠 Passionate about Data Structures & Algorithms (Java)  
-- 📈 Consistent Problem Solver | 🔥 Active in Weekly & Biweekly Contests  
-- 🎯 Focused on Improving Problem-Solving Skills  
-- 🌱 Currently learning Advanced Backend  
-- 🛠️ Joint Secretary, Technical Board | Organizer – Technical Aakriti & Community Technology Events  
+- 💻 Backend Developer (Node.js)  
+- 🧠 Strong in **Java & Data Structures and Algorithms**  
+- 📈 Solved **XXX+ DSA Questions** | Consistent daily practice (Heatmap 📊)  
+- 🤖 Exploring **AI basics & backend integrations**  
+- 🌱 Learning **Advanced Backend & System Design**  
 
 ---
 
@@ -22,32 +21,32 @@
 
 <p align="left">
 
-<a href="mailto:himanshu241937@gmail.com" target="_blank" style="text-decoration:none; display:inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" style="vertical-align:middle;"/>
+<a href="mailto:himanshu241937@gmail.com" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
 </a>
 
-<a href="https://www.linkedin.com/in/himanshu-kumar-70555a321/" target="_blank" style="text-decoration:none; display:inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="vertical-align:middle;"/>
+<a href="https://www.linkedin.com/in/himanshu-kumar-70555a321/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
 
-<a href="https://www.instagram.com/_hermit07_/" target="_blank" style="text-decoration:none; display:inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" style="vertical-align:middle;"/>
+<a href="https://www.instagram.com/_hermit07_/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
 </a>
 
-<a href="https://leetcode.com/u/Himanshu_K24/" target="_blank" style="text-decoration:none; display:inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" style="vertical-align:middle;"/>
+<a href="https://leetcode.com/u/Himanshu_K24/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/himanshuX07" target="_blank" style="text-decoration:none; display:inline-block;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" style="vertical-align:middle;"/>
+<a href="https://www.hackerrank.com/profile/himanshuX07" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40"/>
 </a>
 
-<a href="https://codeforces.com/profile/HimanshuX07" target="_blank" style="text-decoration:none; display:inline-block;">
-  <img src="https://sta.codeforces.com/s/0/favicon-32x32.png" width="40" style="vertical-align:middle;"/>
+<a href="https://codeforces.com/profile/HimanshuX07" target="_blank">
+  <img src="https://sta.codeforces.com/s/0/favicon-32x32.png" width="40"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/himanshu074/" target="_blank" style="text-decoration:none; display:inline-block;">
-  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40" style="vertical-align:middle;"/>
+<a href="https://www.geeksforgeeks.org/profile/himanshu074/" target="_blank">
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="40"/>
 </a>
 
 </p>
@@ -77,14 +76,15 @@
 
 ---
 
-### 🌐 Web Development
+### 🌐 Backend & Web
 <p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 </p>
+
+**Core Skills:**  
+`REST APIs` • `WebSockets` • `API Testing (Postman)` • `Authentication (JWT)`  
 
 ---
 
@@ -98,16 +98,13 @@
 
 ---
 
-## 🎯 Current Goals  
+## ⚡ Currently Building & Learning  
 
-- 🚀 Master Backend Development  
-- 🧠 Crack Advanced DSA Questions  
-- 🏗️ Build Scalable Full-Stack Projects  
-💼 Prepare for Product-Based Companies
+- 🔧 Scalable backend systems  
+- 🌐 Real-time applications using WebSockets  
+- 🧠 Advanced DSA patterns  
+- 🔐 Secure API design & optimization  
 
 ---
 
-<h3 align="center">⚡ Code. Debug. Improve. Repeat. ⚡</h3>
-
-
-
+<h3 align="center">⚡ Code. Build. Improve. Repeat. ⚡</h3>

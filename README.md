@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 
 <h3 align="center">
 🎓 B.Tech Student | ☕ Java & DSA Enthusiast | 💻 Backend Developer
@@ -103,90 +103,11 @@
 - 🚀 Master Backend Development  
 - 🧠 Crack Advanced DSA Questions  
 - 🏗️ Build Scalable Full-Stack Projects  
-<!--- 💼 Prepare for Product-Based Companies  -->
+💼 Prepare for Product-Based Companies
 
 ---
 
-<!-- <h3 align="center">⚡ Code. Debug. Improve. Repeat. ⚡</h3> --> -->
+<h3 align="center">⚡ Code. Debug. Improve. Repeat. ⚡</h3>
 
 
-<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 
-<h3 align="center">
-🚀 Backend Developer | ☕ Java + DSA | ⚡ Problem Solver
-</h3>
-
----
-
-## 🧠 About Me  
-
-- 🎓 B.Tech (2nd Year)  
-- 💻 Backend Developer (Node.js + APIs)  
-- 🧩 Strong in Java & Data Structures  
-- 🔥 Regular Contest Participant (LeetCode, CF)  
-- 🛠️ Joint Secretary | Technical Board  
-- 🌱 Exploring **Advanced Backend + System Design**
-
----
-
-## ⚡ Tech Stack  
-
-**Languages**  
-`Java` `JavaScript` `C++`
-
-**Backend & Web**  
-`Node.js` `Express.js` `MongoDB` `REST APIs` `WebSockets`
-
-**Tools**  
-`Git` `GitHub` `Postman` `VS Code` `IntelliJ`
-
----
-
-## 🚀 What I’m Working On  
-
-- 🔥 Building **scalable backend systems**
-- ⚡ Practicing **advanced DSA patterns**
-- 🌐 Exploring **real-time apps (WebSockets)**
-- 🧪 Writing & testing APIs using **Postman**
-
----
-
-## 🧩 Highlight Skills  
-
-✔️ REST API Design  
-✔️ Authentication (JWT)  
-✔️ Real-Time Communication (Socket.io)  
-✔️ Database Design (MongoDB)  
-✔️ Competitive Programming Mindset  
-
----
-
-## 📊 Coding Profiles  
-
-<p align="center">
-  <a href="https://leetcode.com/u/Himanshu_K24/">
-    <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=contest"/>
-  </a>
-</p>
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-<a href="mailto:himanshu241937@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png"/></a>
-<a href="https://www.linkedin.com/in/himanshu-kumar-70555a321/"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-<a href="https://www.instagram.com/_hermit07_/"><img src="https://img.icons8.com/color/48/instagram-new.png"/></a>
-<a href="https://codeforces.com/profile/HimanshuX07"><img src="https://sta.codeforces.com/s/0/favicon-32x32.png"/></a>
-</p>
-
----
-
-## ⚡ Fun Zone  
-
-```js
-while (!success) {
-   tryAgain();
-   learn();
-   improve();
-}

@@ -9,11 +9,10 @@
 ## 🚀 About Me  
 
 - 🎓 Second-Year B.Tech Student  
-- 💻 Backend Developer (Node.js)  
-- 🧠 Strong in **Java & Data Structures and Algorithms**  
-- 📈 Solved **XXX+ DSA Questions** | Consistent daily practice (Heatmap 📊)  
+- 💻 Backend Developer (Node.js)   
 - 🤖 Exploring **AI basics & backend integrations**  
-- 🌱 Learning **Advanced Backend & System Design**  
+- 🌱 Learning **Advanced Backend & System Design**
+- 🧠 Strong in **Java & Data Structures and Algorithms**  
 
 ---
 
@@ -53,14 +52,14 @@
 
 ---
 
-## 🏆 LeetCode Profile  
+## 🏆 DSA Activity  
 
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true"/>
+  <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap"/>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=contest"/>
+  📈 Consistent daily problem solving
 </p>
 
 ---
@@ -84,7 +83,7 @@
 </p>
 
 **Core Skills:**  
-`REST APIs` • `WebSockets` • `API Testing (Postman)` • `Authentication (JWT)`  
+🚀 REST APIs • 🔌 WebSockets • 🧪 Postman • 🔐 JWT Auth  
 
 ---
 
@@ -101,7 +100,6 @@
 ## ⚡ Currently Building & Learning  
 
 - 🔧 Scalable backend systems  
-- 🌐 Real-time applications using WebSockets  
 - 🧠 Advanced DSA patterns  
 - 🔐 Secure API design & optimization  
 

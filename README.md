@@ -10,7 +10,7 @@
 
 - 🎓 Second-Year B.Tech Student  
 - 💻 Backend Developer (Node.js)   
-- 🤖 Exploring **AI basics & backend integrations**  
+- 🤖 Exploring **AI & backend integrations**  
 - 🌱 Learning **Advanced Backend & System Design**
 - 🧠 Strong in **Java & Data Structures and Algorithms**  
 

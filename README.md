@@ -87,13 +87,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-<!-- REST API (represented generically) -->
-<img src="https://www.svgrepo.com/show/354202/api.svg" width="40"/>
-
-<!-- WebSocket -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/>
+</p>
 
+<p>
+<b>Concepts:</b> REST APIs • WebSockets • Authentication (JWT)
 </p>
 
 ---

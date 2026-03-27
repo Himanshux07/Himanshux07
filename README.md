@@ -52,7 +52,11 @@
 
 ---
 
-## 🏆 DSA Activity  
+## 🏆 LeetCode  
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true"/>
+</p>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap"/>
@@ -75,15 +79,17 @@
 
 ---
 
-### 🌐 Backend & Web
+### 🌐 Web Development
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
 </p>
 
 **Core Skills:**  
-🚀 REST APIs • 🔌 WebSockets • 🧪 Postman • 🔐 JWT Auth  
+🚀 REST APIs • 🔌 WebSockets • 🧪 API Testing • 🔐 JWT Auth  
 
 ---
 
@@ -93,6 +99,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="50"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
 </p>
 
 ---

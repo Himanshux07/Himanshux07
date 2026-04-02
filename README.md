@@ -12,7 +12,7 @@
 - 💻 Backend Developer (Node.js)   
 - 🤖 Exploring **AI & backend integrations**  
 - 🌱 Learning **Advanced Backend & System Design**
-- 🧠 Strong in **Java & Data Structures and Algorithms**  
+- 🧠 Grinding **Data Structures and Algorithms**  
 
 ---
 

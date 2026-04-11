@@ -52,18 +52,6 @@
 
 ---
 
-## 🏆 LeetCode  
-
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true"/>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap"/>
-</p>
-
----
-
 ## 🛠️ Tech Stack  
 
 ### 💻 Languages
@@ -95,6 +83,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+---
+
+## 🏆 LeetCode  
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Himanshu_K24&theme=dark&border=no-border&animated=true"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Himanshu_K24?theme=dark&ext=heatmap"/>
 </p>
 
 ---

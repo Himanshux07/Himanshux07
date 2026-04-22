@@ -20,10 +20,6 @@
 
 <p align="left">
 
-<a href="mailto:himanshu241937@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40"/>
-</a>
-
 <a href="https://www.linkedin.com/in/himanshu-kumar-70555a321/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>

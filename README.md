@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 
 <h3 align="center">
-💻 Backend Developer
+  🎓 Second-Year B.Tech Student | Army Institute of Technology, Pune
 </h3>
 
 ---
 
 ## 🚀 About Me  
-
-- 🎓 Second-Year B.Tech Student  
+ 
 - 💻 Backend Developer (Node.js)   
 - 🤖 Exploring **AI & backend integrations**  
 - 🌱 Learning **Advanced Backend & System Design**

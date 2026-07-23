@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 
 <h3 align="center">
-  🎓 Second-Year B.Tech Student | Army Institute of Technology, Pune
+  🎓 Third-Year B.Tech Student | Army Institute of Technology, Pune
 </h3>
 
 ---
